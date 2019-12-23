@@ -1,2 +1,3 @@
 # jAttack
-coordinated attack algorithm implementation
+Coordinated attack algorithm implementation.
+This impelementation simulates decission making problem.
